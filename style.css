@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 500px;
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+.top-section p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.image-section img {
+  width: 100%;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.trivia-section ol {
+  padding-left: 20px;
+}
+
+.trivia-section li {
+  margin-bottom: 6px;
+}
